@@ -7,6 +7,15 @@
   -📫 Entre em contato comigo via e-mail: enzocampaodutra2310@gmail.com.
   
   -👔 Atualmente hoje não estou trabalhando, porém estou a procura.
+
+  <div> 
+  
+  <a href="https://www.instagram.com/enzocdutra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:enzocampaodutra2310@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/enzocd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzocdutra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -18,10 +27,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
-<div> 
-  
-  <a href="https://www.instagram.com/enzocdutra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:enzocampaodutra2310@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzocd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
