@@ -6,7 +6,7 @@
   
   -📫 Entre em contato comigo via e-mail: enzocampaodutra2310@gmail.com.
   
-  -👔 Atualmente hoje não estou trabalhando, porém estou a procura.
+  -👔 Atualmente não estou trabalhando, aberto à ofertas.
 
 
 <div style="display: inline_block"><br>
