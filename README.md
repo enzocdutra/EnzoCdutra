@@ -1,4 +1,4 @@
- ### Ola, eu me chamo EnzoCdutra👋
+ ### Ola, eu me chamo Enzo Campão Dutra👋
  
   -👀 Eu sou interessado em desenvolvimento front-end;
   
