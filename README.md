@@ -1,29 +1,38 @@
- ### Ola, eu me chamo <strong>Enzo Campão Dutra👋</strong>
- 
-  -👀 Eu sou interessado em desenvolvimento front-end;
-  
-  -🌱 Atualmente estou fazendo faculdade de Análise e Desenvolvimento de Sistemas,e também estou me aprofundando em desenvolvimento front-end.
-  
-  -📫 Entre em contato comigo via e-mail: enzocampaodutra2310@gmail.com.
-  
-  -👔 Atualmente não estou trabalhando, aberto à ofertas.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003566&fontAlign=0&fontAlignY=0&descAlign=18&descAlignY=0"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serief&weight=500&size=35&duration=3000&pause=2000&color=0085FFFF&center=true&vCenter=true&width=1000&lines=Hello+Guys%2C+my+name%C2%B4s+Enzo;I%C2%B4m+a+Front-end+Developer+from+Brazil%2C+RS)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Enzo-Js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Enzo-git" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  />
-          
-          
-</div>
+##
 <br>
-<div>
-  <a href = "mailto:enzocampaodutra2310@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzocd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
-  &nbsp;
+<div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzocdutra&show_icons=true&theme=dark) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzocdutra&layout=compact&theme=dark)
+  🔥 Junior Web Developer.
+
+  📚 Systems analysis and development student.
+
+  😉 An incessantly curious person, always improving in their studies.
+  
+</div>
+
+<br>
+
+<h3 align="center"> Technologies that I use in my day! </h3>
+
+
+<div align="center" style="display: inline_block";>
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,next)](https://skillicons.dev)
+  
+</div>
+
+<br>
+
+<div align="center"> 
+  
+<h3>Social media!</h3>
+
+<a href="https://www.linkedin.com/in/enzocd" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a> &nbsp;
+</div>
+
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003566&fontAlign=0&fontAlignY=0&descAlign=18&descAlignY=0&section=footer"/>
