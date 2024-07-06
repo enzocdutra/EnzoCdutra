@@ -31,6 +31,7 @@
   
 <h3>Social media!</h3>
 
+<a href="[https://www.linkedin.com/in/enzocd](https://www.instagram.com/enzocdutra/)" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="linkedin"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/enzocd" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a> &nbsp;
 </div>
 
