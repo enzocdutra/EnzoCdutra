@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003566&fontAlign=0&fontAlignY=0&descAlign=18&descAlignY=0"/>
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003566&fontAlign=0&fontAlignY=0&descAlign=18&descAlignY=0"/>](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&textBg=true&descAlign=57)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serief&weight=500&size=35&duration=3000&pause=2000&color=0085FFFF&center=true&vCenter=true&width=1000&lines=Hello+Guys%2C+my+name%C2%B4s+Enzo;I%C2%B4m+a+Front-end+Developer+from+Brazil%2C+RS)](https://git.io/typing-svg)
 
