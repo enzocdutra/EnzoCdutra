@@ -6,10 +6,10 @@
 
 <div align="center">
   <h3>
-    🔥 Web Developer<br>
+    🔥 Front-end Developer<br>
     📚 Systems analysis and development student<br>
     😉 Incessantly curious, always improving my skills<br>
-    😀 20 years old
+    😀 21 years old
   </h3>
 </div>
 
