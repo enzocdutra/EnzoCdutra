@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    🔥 Front-end & Mobile Developer<br>
+    🔥 Full-Stack Developer<br>
     📚 Systems Analysis & Development Student<br>
     😉 Incessantly curious, always improving my skills<br>
     😀 21 years old
