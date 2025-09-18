@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    🔥 Front-end Developer & Full-stack Enthusiast<br>
+    🔥 Front-end & Mobile Developer<br>
     📚 Systems Analysis & Development Student<br>
     😉 Incessantly curious, always improving my skills<br>
     😀 21 years old
@@ -19,9 +19,26 @@
 <h3 align="center">⚡ Technologies I use daily!</h3>
 
 <div align="center" style="display: inline_block;">
-  
-  [![Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,docker,postgres,mongodb,vite)](https://skillicons.dev)
-  
+
+### Front-end
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![React Native](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+
+### Back-end
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+### Databases & ORM
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+
 </div>
 
 <br>
