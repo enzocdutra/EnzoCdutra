@@ -11,7 +11,7 @@
     🔥 Full-Stack Developer<br>
     📚 Systems Analysis & Development Student<br>
     😉 Incessantly curious, always improving my skills<br>
-    😀 21 years old
+    😀 22 years old
   </h3>
 </div>
 
